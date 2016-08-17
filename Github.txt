@@ -1,0 +1,10 @@
+﻿Para descargar Github
+sudo apt-get install git
+
+Para subir archivo
+
+git add archivo
+git commit -m "comentario"
+git push
+
+
